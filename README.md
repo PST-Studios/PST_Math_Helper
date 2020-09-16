@@ -10,4 +10,6 @@ This program is useful if you need to see each next step but don't want to searc
 Feel free to modify whatever you want and do what you want with this code or program.  I am not responsible for any changes or damage caused by changes or the current code.  Feel free to scan all code and files.
 
 
-For more programs and tutorials on how to make them, go to https://www.lvpst.com or you can contact me to discuss personalized program options by using the contact form at https://www.yourpst.com
+For more programs and tutorials on how to make them, go to https://www.lvpst.com 
+
+You can contact me to discuss personalized program options by using the contact form at https://www.yourpst.com
