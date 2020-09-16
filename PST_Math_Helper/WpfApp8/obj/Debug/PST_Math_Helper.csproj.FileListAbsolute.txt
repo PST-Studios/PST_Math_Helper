@@ -1,0 +1,14 @@
+C:\Users\AP-Admin\source\repos\PST_Math_Helper\WpfApp8\bin\Debug\PST_Math_Helper.exe.config
+C:\Users\AP-Admin\source\repos\PST_Math_Helper\WpfApp8\bin\Debug\PST_Math_Helper.exe
+C:\Users\AP-Admin\source\repos\PST_Math_Helper\WpfApp8\bin\Debug\PST_Math_Helper.pdb
+C:\Users\AP-Admin\source\repos\PST_Math_Helper\WpfApp8\obj\Debug\MainWindow.g.cs
+C:\Users\AP-Admin\source\repos\PST_Math_Helper\WpfApp8\obj\Debug\App.g.cs
+C:\Users\AP-Admin\source\repos\PST_Math_Helper\WpfApp8\obj\Debug\PST_Math_Helper_MarkupCompile.cache
+C:\Users\AP-Admin\source\repos\PST_Math_Helper\WpfApp8\obj\Debug\PST_Math_Helper_MarkupCompile.lref
+C:\Users\AP-Admin\source\repos\PST_Math_Helper\WpfApp8\obj\Debug\MainWindow.baml
+C:\Users\AP-Admin\source\repos\PST_Math_Helper\WpfApp8\obj\Debug\PST_Math_Helper.g.resources
+C:\Users\AP-Admin\source\repos\PST_Math_Helper\WpfApp8\obj\Debug\PST_Math_Helper.Properties.Resources.resources
+C:\Users\AP-Admin\source\repos\PST_Math_Helper\WpfApp8\obj\Debug\PST_Math_Helper.csproj.GenerateResource.Cache
+C:\Users\AP-Admin\source\repos\PST_Math_Helper\WpfApp8\obj\Debug\PST_Math_Helper.csproj.CoreCompileInputs.cache
+C:\Users\AP-Admin\source\repos\PST_Math_Helper\WpfApp8\obj\Debug\PST_Math_Helper.exe
+C:\Users\AP-Admin\source\repos\PST_Math_Helper\WpfApp8\obj\Debug\PST_Math_Helper.pdb
